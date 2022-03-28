@@ -55,7 +55,7 @@ namespace ConsoleApplication1
             //QueueAndStack.queueEx();
             //QueueAndStack.StackEx();
 
-            ListTest.listEx();
+            MergeTwoSortedLists.SortListTest();
 
             //Console.WriteLine();
 

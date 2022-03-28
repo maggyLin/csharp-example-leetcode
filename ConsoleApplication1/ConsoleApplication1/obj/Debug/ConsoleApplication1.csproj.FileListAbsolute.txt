@@ -18,3 +18,10 @@ D:\code\csharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplicat
 D:\code\csharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
 D:\code\csharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\code\csharp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\code\csharp\csharp-example-leetcode\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\code\csharp\csharp-example-leetcode\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\code\csharp\csharp-example-leetcode\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\code\csharp\csharp-example-leetcode\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+D:\code\csharp\csharp-example-leetcode\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\code\csharp\csharp-example-leetcode\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\code\csharp\csharp-example-leetcode\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
