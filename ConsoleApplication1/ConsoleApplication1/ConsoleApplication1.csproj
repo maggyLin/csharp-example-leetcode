@@ -49,6 +49,7 @@
     <Compile Include="ForTest.cs" />
     <Compile Include="IntegralRange.cs" />
     <Compile Include="LeetcodeExample\MergeTwoSortedLists.cs" />
+    <Compile Include="LeetcodeExample\SearchInsertPosition.cs" />
     <Compile Include="LeetcodeExample\ValidParentheses.cs" />
     <Compile Include="ListTest.cs" />
     <Compile Include="MathOperatorTest.cs" />

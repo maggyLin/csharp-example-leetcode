@@ -55,9 +55,11 @@ namespace ConsoleApplication1
             //QueueAndStack.queueEx();
             //QueueAndStack.StackEx();
 
-            MergeTwoSortedLists.SortListTest();
+            //MergeTwoSortedLists.SortListTest();
 
-            //Console.WriteLine();
+            int[] nums = { 1, 3, 4, 6, 8, 9, 10, 13, 15 };
+
+            Console.WriteLine(SearchInsertPosition.searchInsert(nums, 5));
 
             Console.ReadKey();
         }
