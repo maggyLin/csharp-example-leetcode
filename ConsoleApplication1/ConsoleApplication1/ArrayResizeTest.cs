@@ -29,7 +29,8 @@ namespace ConsoleApplication1
         public static void ClearTest()
         {
             string[] pallets = { "B14", "A11", "B12", "A13" };
-            Array.Clear(pallets, 0, 2);
+            //Array.Clear(pallets, 0, 2);
+            Array.Resize(ref pallets, 2);
             Console.WriteLine($"Clearing 2 ... count: {pallets.Length}");
             foreach (var pallet in pallets)
             {
@@ -44,7 +45,7 @@ namespace ConsoleApplication1
             //轉 char array
             char[] valueArray = value.ToCharArray();
             //反轉
-            Array.Reverse(valueArray);  
+            Array.Reverse(valueArray);
 
             //轉string
             //string result = new string(valueArray);

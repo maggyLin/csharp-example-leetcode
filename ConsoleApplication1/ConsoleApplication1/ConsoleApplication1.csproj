@@ -48,7 +48,12 @@
     <Compile Include="ConvertTypeTest.cs" />
     <Compile Include="ForTest.cs" />
     <Compile Include="IntegralRange.cs" />
+    <Compile Include="LeetcodeExample\LengthofLastWord.cs" />
+    <Compile Include="LeetcodeExample\MaximumSubarray.cs" />
     <Compile Include="LeetcodeExample\MergeTwoSortedLists.cs" />
+    <Compile Include="LeetcodeExample\PathSum.cs" />
+    <Compile Include="LeetcodeExample\PlusOne.cs" />
+    <Compile Include="LeetcodeExample\RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="LeetcodeExample\SearchInsertPosition.cs" />
     <Compile Include="LeetcodeExample\ValidParentheses.cs" />
     <Compile Include="ListTest.cs" />

@@ -20,22 +20,15 @@ namespace ConsoleApplication1
             //IFTest test = new IFTest();
             //test.TestIf(int.Parse(input));
 
-            //StringTest.test2();
-
-            //MathOperatorTest.QuotientTest();
-
-            //ArrayForTest.foreachTest();
 
             // 不同 namespace
             //string value = "Microsoft Learn";
             //string reversedValue = Utility.Reverse(value);
             //Console.WriteLine($"Secret message: {reversedValue}");
 
-            //SwitchCaseTest.test(500);
 
             //ForTest.FizzBuzzTest();
 
-            //WhileTest.ContinueTest();
 
             // array 是 參考型別
             //ArrayForTest.ArrayTest();
@@ -55,11 +48,8 @@ namespace ConsoleApplication1
             //QueueAndStack.queueEx();
             //QueueAndStack.StackEx();
 
-            //MergeTwoSortedLists.SortListTest();
 
-            int[] nums = { 1, 3, 4, 6, 8, 9, 10, 13, 15 };
-
-            Console.WriteLine(SearchInsertPosition.searchInsert(nums, 5));
+            Console.WriteLine();
 
             Console.ReadKey();
         }
