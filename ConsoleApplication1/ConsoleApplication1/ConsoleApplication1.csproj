@@ -52,6 +52,7 @@
     <Compile Include="LeetcodeExample\BinaryTreeInorderTraversal.cs" />
     <Compile Include="LeetcodeExample\ClimbingStairs_Fibo.cs" />
     <Compile Include="LeetcodeExample\LengthofLastWord.cs" />
+    <Compile Include="LeetcodeExample\MaximumDepthof BinaryTree.cs" />
     <Compile Include="LeetcodeExample\MaximumSubarray.cs" />
     <Compile Include="LeetcodeExample\MergeSortedArray.cs" />
     <Compile Include="LeetcodeExample\MergeTwoSortedLists.cs" />
@@ -59,7 +60,10 @@
     <Compile Include="LeetcodeExample\PlusOne.cs" />
     <Compile Include="LeetcodeExample\RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="LeetcodeExample\RemoveDuplicatesfromSortedList.cs" />
+    <Compile Include="LeetcodeExample\SameTree.cs" />
     <Compile Include="LeetcodeExample\SearchInsertPosition.cs" />
+    <Compile Include="LeetcodeExample\SingleNumber.cs" />
+    <Compile Include="LeetcodeExample\SymmetricTree.cs" />
     <Compile Include="LeetcodeExample\ValidParentheses.cs" />
     <Compile Include="ListTest.cs" />
     <Compile Include="MathOperatorTest.cs" />
