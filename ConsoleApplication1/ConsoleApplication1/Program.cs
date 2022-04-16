@@ -48,12 +48,10 @@ namespace ConsoleApplication1
             //QueueAndStack.queueEx();
             //QueueAndStack.StackEx();
 
-            int[] nums1 = { 0, 1, 1, 2, 2, 3, 5, 0, 0, 0 }, nums2 = { 2, 5, 6 };
-            int m = 7, n = 3;
+            int[] nums1 = { 2,1,2 };
 
-            MergeSortedArray.Merge3(nums1, m, nums2,n);
-
-            Console.WriteLine();
+   
+            Console.WriteLine(LargestRectangleInHistogram.Final2(nums1));
 
             Console.ReadKey();
         }
