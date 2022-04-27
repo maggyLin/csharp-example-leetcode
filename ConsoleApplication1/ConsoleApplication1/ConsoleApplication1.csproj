@@ -49,12 +49,14 @@
     <Compile Include="ForTest.cs" />
     <Compile Include="IntegralRange.cs" />
     <Compile Include="LeetcodeExample\AddBinary.cs" />
+    <Compile Include="LeetcodeExample\BestTimetoBuyandSellStock.cs" />
     <Compile Include="LeetcodeExample\BinaryTreeInorderTraversal.cs" />
     <Compile Include="LeetcodeExample\Candy.cs" />
     <Compile Include="LeetcodeExample\ClimbingStairs_Fibo.cs" />
     <Compile Include="LeetcodeExample\JumpGame.cs" />
     <Compile Include="LeetcodeExample\LargestRectangleInHistogram.cs" />
     <Compile Include="LeetcodeExample\LengthofLastWord.cs" />
+    <Compile Include="LeetcodeExample\LinkedListCycle.cs" />
     <Compile Include="LeetcodeExample\MaximumDepthof BinaryTree.cs" />
     <Compile Include="LeetcodeExample\MaximumSubarray.cs" />
     <Compile Include="LeetcodeExample\MergeSortedArray.cs" />
