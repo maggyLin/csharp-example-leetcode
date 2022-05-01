@@ -53,6 +53,8 @@
     <Compile Include="LeetcodeExample\BinaryTreeInorderTraversal.cs" />
     <Compile Include="LeetcodeExample\Candy.cs" />
     <Compile Include="LeetcodeExample\ClimbingStairs_Fibo.cs" />
+    <Compile Include="LeetcodeExample\DiameterOfBinaryTree.cs" />
+    <Compile Include="LeetcodeExample\InvertBinaryTree.cs" />
     <Compile Include="LeetcodeExample\JumpGame.cs" />
     <Compile Include="LeetcodeExample\LargestRectangleInHistogram.cs" />
     <Compile Include="LeetcodeExample\LengthofLastWord.cs" />
@@ -73,6 +75,7 @@
     <Compile Include="LeetcodeExample\SearchInsertPosition.cs" />
     <Compile Include="LeetcodeExample\SingleNumber.cs" />
     <Compile Include="LeetcodeExample\SymmetricTree.cs" />
+    <Compile Include="LeetcodeExample\ValidPalindrome_125.cs" />
     <Compile Include="LeetcodeExample\ValidParentheses.cs" />
     <Compile Include="ListTest.cs" />
     <Compile Include="MathOperatorTest.cs" />
