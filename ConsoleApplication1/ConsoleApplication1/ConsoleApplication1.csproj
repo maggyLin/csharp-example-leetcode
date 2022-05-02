@@ -49,11 +49,13 @@
     <Compile Include="ForTest.cs" />
     <Compile Include="IntegralRange.cs" />
     <Compile Include="LeetcodeExample\AddBinary.cs" />
+    <Compile Include="LeetcodeExample\ArraytoBinarySearchTree_108_heightBalance.cs" />
     <Compile Include="LeetcodeExample\BestTimetoBuyandSellStock.cs" />
     <Compile Include="LeetcodeExample\BinaryTreeInorderTraversal.cs" />
     <Compile Include="LeetcodeExample\Candy.cs" />
     <Compile Include="LeetcodeExample\ClimbingStairs_Fibo.cs" />
     <Compile Include="LeetcodeExample\DiameterOfBinaryTree.cs" />
+    <Compile Include="LeetcodeExample\ExcelColumnNumber_171.cs" />
     <Compile Include="LeetcodeExample\InvertBinaryTree.cs" />
     <Compile Include="LeetcodeExample\JumpGame.cs" />
     <Compile Include="LeetcodeExample\LargestRectangleInHistogram.cs" />
@@ -66,6 +68,7 @@
     <Compile Include="LeetcodeExample\MergeTwoSortedLists.cs" />
     <Compile Include="LeetcodeExample\MoveZeroes.cs" />
     <Compile Include="LeetcodeExample\PalindromeLinkedList.cs" />
+    <Compile Include="LeetcodeExample\PascalTriangle_118.cs" />
     <Compile Include="LeetcodeExample\PathSum.cs" />
     <Compile Include="LeetcodeExample\PlusOne.cs" />
     <Compile Include="LeetcodeExample\RemoveDuplicatesfromSortedArray.cs" />
