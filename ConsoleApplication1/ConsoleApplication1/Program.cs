@@ -48,11 +48,12 @@ namespace ConsoleApplication1
             //QueueAndStack.queueEx();
             //QueueAndStack.StackEx();
 
-            int[] nums1 = { 2,1,2 };
+            //int[] nums1 = { 2,1,2 };
+            //Console.WriteLine(LargestRectangleInHistogram.Final2(nums1));
+
+            HappyNumber_202.IsHappy(19);
 
    
-            Console.WriteLine(LargestRectangleInHistogram.Final2(nums1));
-
             Console.ReadKey();
         }
     }
