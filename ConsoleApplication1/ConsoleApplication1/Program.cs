@@ -51,7 +51,7 @@ namespace ConsoleApplication1
             //int[] nums1 = { 2,1,2 };
             //Console.WriteLine(LargestRectangleInHistogram.Final2(nums1));
 
-            HappyNumber_202.IsHappy(19);
+            PowerofThree_326.IsPowerOfThree(27);
 
    
             Console.ReadKey();

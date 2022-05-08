@@ -67,11 +67,14 @@
     <Compile Include="LeetcodeExample\MaximumSubarray.cs" />
     <Compile Include="LeetcodeExample\MergeSortedArray.cs" />
     <Compile Include="LeetcodeExample\MergeTwoSortedLists.cs" />
+    <Compile Include="LeetcodeExample\MissingNumber.cs" />
     <Compile Include="LeetcodeExample\MoveZeroes.cs" />
+    <Compile Include="LeetcodeExample\Numberof1Bits_191.cs" />
     <Compile Include="LeetcodeExample\PalindromeLinkedList.cs" />
     <Compile Include="LeetcodeExample\PascalTriangle_118.cs" />
     <Compile Include="LeetcodeExample\PathSum.cs" />
     <Compile Include="LeetcodeExample\PlusOne.cs" />
+    <Compile Include="LeetcodeExample\PowerofThree_326.cs" />
     <Compile Include="LeetcodeExample\RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="LeetcodeExample\RemoveDuplicatesfromSortedList.cs" />
     <Compile Include="LeetcodeExample\ReverseLinkedList.cs" />
