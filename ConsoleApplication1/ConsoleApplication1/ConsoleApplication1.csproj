@@ -54,8 +54,10 @@
     <Compile Include="LeetcodeExample\BinaryTreeInorderTraversal.cs" />
     <Compile Include="LeetcodeExample\Candy.cs" />
     <Compile Include="LeetcodeExample\ClimbingStairs_Fibo.cs" />
+    <Compile Include="LeetcodeExample\ContainsDuplicate_217.cs" />
     <Compile Include="LeetcodeExample\DiameterOfBinaryTree.cs" />
     <Compile Include="LeetcodeExample\ExcelColumnNumber_171.cs" />
+    <Compile Include="LeetcodeExample\FizzBuzz_412.cs" />
     <Compile Include="LeetcodeExample\HappyNumber_202.cs" />
     <Compile Include="LeetcodeExample\InvertBinaryTree.cs" />
     <Compile Include="LeetcodeExample\JumpGame.cs" />
@@ -78,10 +80,12 @@
     <Compile Include="LeetcodeExample\RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="LeetcodeExample\RemoveDuplicatesfromSortedList.cs" />
     <Compile Include="LeetcodeExample\ReverseLinkedList.cs" />
+    <Compile Include="LeetcodeExample\ReverseString_344.cs" />
     <Compile Include="LeetcodeExample\SameTree.cs" />
     <Compile Include="LeetcodeExample\SearchInsertPosition.cs" />
     <Compile Include="LeetcodeExample\SingleNumber.cs" />
     <Compile Include="LeetcodeExample\SymmetricTree.cs" />
+    <Compile Include="LeetcodeExample\ValidAnagram_242.cs" />
     <Compile Include="LeetcodeExample\ValidPalindrome_125.cs" />
     <Compile Include="LeetcodeExample\ValidParentheses.cs" />
     <Compile Include="ListTest.cs" />
