@@ -59,6 +59,7 @@
     <Compile Include="LeetcodeExample\ExcelColumnNumber_171.cs" />
     <Compile Include="LeetcodeExample\FizzBuzz_412.cs" />
     <Compile Include="LeetcodeExample\HappyNumber_202.cs" />
+    <Compile Include="LeetcodeExample\IntersectionOfTwoArraysII_350.cs" />
     <Compile Include="LeetcodeExample\InvertBinaryTree.cs" />
     <Compile Include="LeetcodeExample\JumpGame.cs" />
     <Compile Include="LeetcodeExample\LargestRectangleInHistogram.cs" />

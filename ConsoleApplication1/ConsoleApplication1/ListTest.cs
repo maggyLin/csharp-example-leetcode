@@ -16,6 +16,8 @@ namespace ConsoleApplication1
             test.Add(10);
             test.Add(100);
 
+            //test.Distinct();  //去除重複
+
             foreach(var item in test)
             {
                 Console.WriteLine(item);

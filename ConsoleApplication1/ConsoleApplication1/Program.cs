@@ -51,7 +51,13 @@ namespace ConsoleApplication1
             //int[] nums1 = { 2,1,2 };
             //Console.WriteLine(LargestRectangleInHistogram.Final2(nums1));
 
-            PowerofThree_326.IsPowerOfThree(27);
+            //PowerofThree_326.IsPowerOfThree(27);
+
+            int[] nums1 = { 1,2, 2, 1 };
+            int[] nums2 = { 2, };
+
+
+            IntersectionOfTwoArraysII_350.Intersect(nums1, nums2);
 
    
             Console.ReadKey();
