@@ -55,6 +55,8 @@
     <Compile Include="LeetcodeExample\Candy.cs" />
     <Compile Include="LeetcodeExample\ClimbingStairs_Fibo.cs" />
     <Compile Include="LeetcodeExample\ContainsDuplicate_217.cs" />
+    <Compile Include="LeetcodeExample\PowerOfTwo.cs" />
+    <Compile Include="LeetcodeExample\RemoveLinkedListElements_203.cs" />
     <Compile Include="LeetcodeExample\DiameterOfBinaryTree.cs" />
     <Compile Include="LeetcodeExample\ExcelColumnNumber_171.cs" />
     <Compile Include="LeetcodeExample\FizzBuzz_412.cs" />
@@ -86,6 +88,7 @@
     <Compile Include="LeetcodeExample\SearchInsertPosition.cs" />
     <Compile Include="LeetcodeExample\SingleNumber.cs" />
     <Compile Include="LeetcodeExample\SymmetricTree.cs" />
+    <Compile Include="LeetcodeExample\UglyNumber.cs" />
     <Compile Include="LeetcodeExample\ValidAnagram_242.cs" />
     <Compile Include="LeetcodeExample\ValidPalindrome_125.cs" />
     <Compile Include="LeetcodeExample\ValidParentheses.cs" />
